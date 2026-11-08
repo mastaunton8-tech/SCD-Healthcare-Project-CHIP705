@@ -8,10 +8,11 @@ Primary Research Question:
 How does the relationship between subjective cognitive decline (SCD) and healthcare engagement vary across U.S. states, and how has this relationship changed over time? 
 
 Why this project:
-Since my great-grandmother had Alzheimer's disease, brain diseases and cognitive health have always been something that has been personally important to me. Seeing how the disease affected her and the people around her made me more aware of the challenges that come with memory loss, cognitive decline, and the impact these conditions can have on families. It also sparked my interest in understanding more about the brain, why these diseases develop, and how they affect individuals differently.
-Over time, that personal connection has grown into an academic and professional interest in researching cognitive health, identifying potential risk factors, and understanding how data can be used to improve early awareness, support, and care.
+
+Since my great-grandmother had Alzheimer's disease, brain diseases and cognitive health have always been something that has been personally important to me. Seeing how the disease affected her and the people around her made me more aware of the challenges that come with memory loss, cognitive decline, and the impact these conditions can have on families. It also sparked my interest in understanding more about the brain, why these diseases develop, and how they affect individuals differently. Over time, that personal connection has grown into an academic and professional interest in researching cognitive health, identifying potential risk factors, and understanding how data can be used to improve early awareness, support, and care.
 
 Approach
+
 The analysis follows these steps:
 Obtain CDC Behavioral Risk Factor Surveillance System (BRFSS) data on subjective cognitive decline (SCD) and related healthcare support indicators from 2015–2022.
 Clean and prepare the dataset by selecting relevant variables, standardizing state and year information, and addressing missing or incomplete values.
@@ -21,6 +22,7 @@ Evaluate the relationship between state-level SCD prevalence and the percentage 
 Generate visualizations to highlight geographic differences, trends over time, and potential areas where additional cognitive health outreach and support may be needed.
 
 Files in this repository:
+
 .gitignore — Specifies files and folders that Git should ignore when tracking changes to the repository.
 data folder — Contains the datasets (csv) used for the project, including CDC data on subjective cognitive decline and healthcare support.
 figures folder — Stores visualizations, graphs, and other figures generated during the data analysis.
@@ -28,4 +30,5 @@ requirements.txt — Lists Python libraries needed to run the project
 README.md — this file
 
 How to run the project:
+
 These instructions assume macOS. Need to download the CSV data file in order to run the project's code. 
