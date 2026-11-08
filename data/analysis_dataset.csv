@@ -1,0 +1,174 @@
+Year,State,State_Name,SCD_Worsening,Healthcare_Discussion
+2015,AL,Alabama,12.8,45.5
+2015,AR,Arkansas,16.5,38.3
+2015,AZ,Arizona,13.2,41.2
+2015,CA,California,12.0,43.2
+2015,CO,Colorado,11.2,46.8
+2015,DC,District of Columbia,13.8,49.2
+2015,FL,Florida,11.8,48.2
+2015,GA,Georgia,14.6,45.7
+2015,HI,Hawaii,9.5,37.3
+2015,IA,Iowa,9.8,38.8
+2015,IL,Illinois,10.3,47.1
+2015,LA,Louisiana,14.5,37.7
+2015,MD,Maryland,11.1,46.0
+2015,MI,Michigan,12.3,41.7
+2015,MN,Minnesota,9.1,43.0
+2015,MS,Mississippi,12.9,43.2
+2015,ND,North Dakota,10.2,42.6
+2015,NE,Nebraska,10.1,33.7
+2015,NJ,New Jersey,9.3,40.8
+2015,NV,Nevada,16.0,51.7
+2015,NY,New York,11.5,45.7
+2015,OH,Ohio,10.5,45.5
+2015,OK,Oklahoma,13.8,47.6
+2015,OR,Oregon,13.0,42.8
+2015,RI,Rhode Island,10.7,55.4
+2015,SC,South Carolina,12.4,44.2
+2015,SD,South Dakota,6.1,42.1
+2015,TN,Tennessee,12.8,49.0
+2015,TX,Texas,12.9,43.2
+2015,UT,Utah,11.7,39.1
+2015,VA,Virginia,9.1,52.8
+2015,WI,Wisconsin,11.1,44.3
+2015,WV,West Virginia,9.6,46.1
+2015,WY,Wyoming,11.0,35.2
+2016,AK,Alaska,12.4,48.2
+2016,CT,Connecticut,7.6,49.8
+2016,DE,Delaware,8.8,48.0
+2016,ID,Idaho,10.8,38.5
+2016,IN,Indiana,10.8,43.7
+2016,KS,Kansas,9.4,43.6
+2016,KY,Kentucky,12.6,44.9
+2016,MA,Massachusetts,9.4,53.9
+2016,ME,Maine,10.4,54.7
+2016,MO,Missouri,10.4,51.6
+2016,MT,Montana,10.3,47.6
+2016,NC,North Carolina,11.4,46.2
+2016,NH,New Hampshire,9.1,46.7
+2016,NJ,New Jersey,9.8,49.7
+2016,NM,New Mexico,12.7,44.3
+2016,NY,New York,10.7,46.6
+2016,OR,Oregon,11.7,44.3
+2016,TN,Tennessee,14.0,48.3
+2016,UT,Utah,10.1,43.5
+2016,VT,Vermont,9.8,43.0
+2016,WA,Washington,11.3,45.8
+2017,GA,Georgia,12.4,39.6
+2017,HI,Hawaii,8.7,33.2
+2017,MD,Maryland,8.5,54.3
+2017,MI,Michigan,12.1,40.8
+2017,MS,Mississippi,15.5,43.6
+2017,NJ,New Jersey,10.0,41.8
+2017,NY,New York,11.1,47.2
+2017,OR,Oregon,11.2,47.5
+2017,UT,Utah,11.8,41.9
+2018,ME,Maine,10.8,56.0
+2018,MI,Michigan,12.0,46.2
+2018,NJ,New Jersey,9.2,40.0
+2018,NY,New York,10.9,48.4
+2018,OR,Oregon,12.1,51.6
+2018,PA,Pennsylvania,10.1,49.1
+2019,AK,Alaska,8.3,41.1
+2019,AL,Alabama,14.7,45.2
+2019,AR,Arkansas,11.7,45.3
+2019,AZ,Arizona,15.0,36.1
+2019,CA,California,11.2,36.4
+2019,CO,Colorado,13.6,46.2
+2019,CT,Connecticut,9.75,46.5
+2019,DC,District of Columbia,11.8,41.45
+2019,DE,Delaware,8.4,44.9
+2019,FL,Florida,12.5,48.55
+2019,GA,Georgia,12.05,43.55
+2019,HI,Hawaii,11.3,30.5
+2019,IA,Iowa,11.05,38.400000000000006
+2019,ID,Idaho,11.0,46.2
+2019,IL,Illinois,6.0,40.8
+2019,IN,Indiana,11.55,46.35
+2019,KS,Kansas,11.9,44.7
+2019,KY,Kentucky,11.5,40.1
+2019,LA,Louisiana,14.3,46.7
+2019,MD,Maryland,11.6,43.7
+2019,ME,Maine,9.9,54.0
+2019,MI,Michigan,12.149999999999999,47.35
+2019,MN,Minnesota,9.2,40.8
+2019,MO,Missouri,11.2,45.2
+2019,MS,Mississippi,12.35,48.5
+2019,NC,North Carolina,7.6,52.5
+2019,ND,North Dakota,8.1,32.8
+2019,NE,Nebraska,10.1,46.0
+2019,NH,New Hampshire,7.3,47.7
+2019,NM,New Mexico,13.2,45.9
+2019,NV,Nevada,15.55,42.2
+2019,NY,New York,10.55,42.15
+2019,OH,Ohio,11.55,50.650000000000006
+2019,OK,Oklahoma,14.35,46.599999999999994
+2019,OR,Oregon,11.95,49.2
+2019,PA,Pennsylvania,10.600000000000001,48.8
+2019,RI,Rhode Island,11.399999999999999,52.55
+2019,SC,South Carolina,11.5,44.85
+2019,SD,South Dakota,9.6,36.0
+2019,TN,Tennessee,14.5,46.7
+2019,TX,Texas,12.399999999999999,42.75
+2019,UT,Utah,12.600000000000001,44.05
+2019,VA,Virginia,9.9,47.35
+2019,VT,Vermont,10.1,52.1
+2019,WA,Washington,9.5,49.4
+2019,WI,Wisconsin,9.8,44.349999999999994
+2019,WV,West Virginia,13.4,48.3
+2019,WY,Wyoming,8.2,40.1
+2020,AK,Alaska,8.3,41.1
+2020,AR,Arkansas,11.7,45.3
+2020,AZ,Arizona,9.4,46.4
+2020,CA,California,8.0,43.5
+2020,DC,District of Columbia,9.4,51.3
+2020,DE,Delaware,8.4,44.9
+2020,HI,Hawaii,6.9,31.3
+2020,ID,Idaho,10.1,42.9
+2020,IL,Illinois,6.0,40.8
+2020,KY,Kentucky,11.5,40.1
+2020,ME,Maine,8.1,49.3
+2020,MI,Michigan,9.5,48.5
+2020,NC,North Carolina,7.6,52.5
+2020,NH,New Hampshire,7.3,47.7
+2020,NV,Nevada,11.0,32.9
+2020,NY,New York,8.0,47.7
+2020,OH,Ohio,9.5,42.6
+2020,OR,Oregon,10.1,44.4
+2020,UT,Utah,10.5,45.8
+2020,VT,Vermont,7.5,48.6
+2020,WA,Washington,9.5,49.4
+2020,WY,Wyoming,8.2,40.1
+2021,CO,Colorado,13.6,46.2
+2021,DC,District of Columbia,12.6,33.5
+2021,GA,Georgia,12.8,38.6
+2021,HI,Hawaii,11.3,30.5
+2021,MD,Maryland,13.0,38.6
+2021,MI,Michigan,12.8,45.7
+2021,MS,Mississippi,13.1,43.7
+2021,NY,New York,11.7,43.9
+2021,OH,Ohio,13.5,42.0
+2021,OK,Oklahoma,14.9,45.6
+2021,OR,Oregon,11.3,46.1
+2021,PA,Pennsylvania,11.3,45.1
+2021,TN,Tennessee,17.5,46.3
+2021,TX,Texas,14.7,40.4
+2021,WI,Wisconsin,10.5,45.2
+2022,AZ,Arizona,15.0,36.1
+2022,CA,California,11.2,36.4
+2022,CT,Connecticut,11.7,41.5
+2022,FL,Florida,11.5,50.6
+2022,IA,Iowa,11.5,41.2
+2022,ID,Idaho,11.0,46.2
+2022,IN,Indiana,11.1,44.7
+2022,ME,Maine,9.9,54.0
+2022,MI,Michigan,10.5,46.7
+2022,NV,Nevada,13.2,51.0
+2022,OH,Ohio,10.7,53.9
+2022,OR,Oregon,12.8,47.2
+2022,RI,Rhode Island,12.2,50.4
+2022,SC,South Carolina,11.6,44.2
+2022,UT,Utah,11.7,46.9
+2022,VA,Virginia,9.9,46.9
+2022,VT,Vermont,10.1,52.1
+2022,WI,Wisconsin,9.6,44.4
