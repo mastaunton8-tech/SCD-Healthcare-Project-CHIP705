@@ -23,11 +23,11 @@ Generate visualizations to highlight geographic differences, trends over time, a
 
 Files in this repository:
 
-.gitignore — Specifies files and folders that Git should ignore when tracking changes to the repository.
-data folder — Contains the datasets (csv) used for the project, including CDC data on subjective cognitive decline and healthcare support.
-figures folder — Stores visualizations, graphs, and other figures generated during the data analysis.
-requirements.txt — Lists Python libraries needed to run the project
-README.md — this file
+- .gitignore — Specifies files and folders that Git should ignore when tracking changes to the repository.
+- data folder — Contains the datasets (csv) used for the project, including CDC data on subjective cognitive decline and healthcare support.
+- figures folder — Stores visualizations, graphs, and other figures generated during the data analysis.
+- requirements.txt — Lists Python libraries needed to run the project
+- README.md — this file
 
 How to run the project:
 
